@@ -52,6 +52,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 `#neverstoplearning`
 
+`#missioncomplete`
+
 ---
 ## Como baixar o projeto
 
